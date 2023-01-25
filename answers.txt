@@ -9,4 +9,3 @@ What is a gitignore file and what should it include for a Java project?
 
 • In a project how many remote Git repositories do you usually have?
   Usually one remote git repository is used per repo.
-Testing
